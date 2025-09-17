@@ -1,6 +1,6 @@
-def main():
+def hello():
     print("Hello World")
 
-if __name__ == "__main__":
-    result = main()
+if __name__ == "__hello__":
+    result = hello()
     print(f"Результат выполнения: {result}")
